@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "blitz", "blitz\blitz.csproj", "{30BEDD8D-75C5-4ED3-9A0B-42DE32408359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30BEDD8D-75C5-4ED3-9A0B-42DE32408359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BEDD8D-75C5-4ED3-9A0B-42DE32408359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BEDD8D-75C5-4ED3-9A0B-42DE32408359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BEDD8D-75C5-4ED3-9A0B-42DE32408359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
